@@ -1,3 +1,8 @@
+## Project Name: To Do List 
+This is a todo list created via react where the user can submit,delete tasks and track tasks.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
